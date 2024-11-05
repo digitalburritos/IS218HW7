@@ -2,4 +2,4 @@
 ![QR Code Image](QRCode_20241105073038.png)
 
 2. Log Success Image
-![Log Successful](image.png)
+![Log Success](log_success.png)
